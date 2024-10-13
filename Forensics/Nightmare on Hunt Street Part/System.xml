@@ -1,0 +1,384 @@
+Record 102981
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}">
+    </Provider>
+    <EventID>104</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>104</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:05:05.441551Z">
+    </TimeCreated>
+    <EventRecordID>102981</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="988" ThreadID="2644">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <UserData>
+    <LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog">
+      <SubjectUserName>SYSTEM</SubjectUserName>
+      <SubjectDomainName>NT AUTHORITY</SubjectDomainName>
+      <Channel>System</Channel>
+      <BackupPath></BackupPath>
+      <ClientProcessId>1724</ClientProcessId>
+      <ClientProcessStartKey>134545038867696424</ClientProcessStartKey>
+    </LogFileCleared>
+  </UserData>
+</Event>
+Record 102982
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}">
+    </Provider>
+    <EventID>104</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>104</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:05:05.800921Z">
+    </TimeCreated>
+    <EventRecordID>102982</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="988" ThreadID="6832">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <UserData>
+    <LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog">
+      <SubjectUserName>SYSTEM</SubjectUserName>
+      <SubjectDomainName>NT AUTHORITY</SubjectDomainName>
+      <Channel>Windows Networking Vpn Plugin Platform/Operational</Channel>
+      <BackupPath></BackupPath>
+      <ClientProcessId>4564</ClientProcessId>
+      <ClientProcessStartKey>134545038867696440</ClientProcessStartKey>
+    </LogFileCleared>
+  </UserData>
+</Event>
+Record 102983
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}">
+    </Provider>
+    <EventID>104</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>104</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:05:05.816550Z">
+    </TimeCreated>
+    <EventRecordID>102983</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="988" ThreadID="6832">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <UserData>
+    <LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog">
+      <SubjectUserName>SYSTEM</SubjectUserName>
+      <SubjectDomainName>NT AUTHORITY</SubjectDomainName>
+      <Channel>Windows Networking Vpn Plugin Platform/OperationalVerbose</Channel>
+      <BackupPath></BackupPath>
+      <ClientProcessId>3452</ClientProcessId>
+      <ClientProcessStartKey>134545038867696441</ClientProcessStartKey>
+    </LogFileCleared>
+  </UserData>
+</Event>
+Record 102984
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Eventlog" Guid="{fc65ddd8-d6ef-4962-83d5-6e5cfe9ce148}">
+    </Provider>
+    <EventID>104</EventID>
+    <Version>1</Version>
+    <Level>4</Level>
+    <Task>104</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8000000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:05:05.847791Z">
+    </TimeCreated>
+    <EventRecordID>102984</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="988" ThreadID="6832">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security UserID="S-1-5-18">
+    </Security>
+  </System>
+  <UserData>
+    <LogFileCleared xmlns="http://manifests.microsoft.com/win/2004/08/windows/eventlog">
+      <SubjectUserName>SYSTEM</SubjectUserName>
+      <SubjectDomainName>NT AUTHORITY</SubjectDomainName>
+      <Channel>Windows PowerShell</Channel>
+      <BackupPath></BackupPath>
+      <ClientProcessId>2472</ClientProcessId>
+      <ClientProcessStartKey>134545038867696442</ClientProcessStartKey>
+    </LogFileCleared>
+  </UserData>
+</Event>
+Record 102985
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager">
+    </Provider>
+    <EventID Qualifiers="16384">7045</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8080000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:08:18.725327Z">
+    </TimeCreated>
+    <EventRecordID>102985</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="640" ThreadID="6352">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security UserID="S-1-5-21-3792037069-2078677046-3387239386-1000">
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="ServiceName">fdpa</Data>
+    <Data Name="ImagePath">%systemroot%\wgWMRHln.exe</Data>
+    <Data Name="ServiceType">user mode service</Data>
+    <Data Name="StartType">demand start</Data>
+    <Data Name="AccountName">LocalSystem</Data>
+  </EventData>
+</Event>
+Record 102986
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager">
+    </Provider>
+    <EventID Qualifiers="16384">7036</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8080000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:08:18.756581Z">
+    </TimeCreated>
+    <EventRecordID>102986</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="640" ThreadID="3584">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="param1">fdpa</Data>
+    <Data Name="param2">running</Data>
+    <Binary>66006400700061002F0034000000</Binary>
+  </EventData>
+</Event>
+Record 102987
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager">
+    </Provider>
+    <EventID Qualifiers="16384">7036</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8080000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:08:41.553571Z">
+    </TimeCreated>
+    <EventRecordID>102987</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="640" ThreadID="3584">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="param1">AppX Deployment Service (AppXSVC)</Data>
+    <Data Name="param2">stopped</Data>
+    <Binary>41007000700058005300760063002F0031000000</Binary>
+  </EventData>
+</Event>
+Record 102988
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager">
+    </Provider>
+    <EventID Qualifiers="16384">7036</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8080000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:08:53.038580Z">
+    </TimeCreated>
+    <EventRecordID>102988</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="640" ThreadID="3584">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="param1">Windows Modules Installer</Data>
+    <Data Name="param2">running</Data>
+    <Binary>540072007500730074006500640049006E007300740061006C006C00650072002F0034000000</Binary>
+  </EventData>
+</Event>
+Record 102989
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager">
+    </Provider>
+    <EventID Qualifiers="16384">7036</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8080000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:10:54.666024Z">
+    </TimeCreated>
+    <EventRecordID>102989</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="640" ThreadID="3584">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="param1">Windows Modules Installer</Data>
+    <Data Name="param2">stopped</Data>
+    <Binary>540072007500730074006500640049006E007300740061006C006C00650072002F0031000000</Binary>
+  </EventData>
+</Event>
+Record 102990
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager">
+    </Provider>
+    <EventID Qualifiers="16384">7045</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8080000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:11:18.291057Z">
+    </TimeCreated>
+    <EventRecordID>102990</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="640" ThreadID="3584">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security UserID="S-1-5-21-3792037069-2078677046-3387239386-1000">
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="ServiceName">WREx</Data>
+    <Data Name="ImagePath">%systemroot%\MrEQbpfX.exe</Data>
+    <Data Name="ServiceType">user mode service</Data>
+    <Data Name="StartType">demand start</Data>
+    <Data Name="AccountName">LocalSystem</Data>
+  </EventData>
+</Event>
+Record 102991
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager">
+    </Provider>
+    <EventID Qualifiers="16384">7036</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8080000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:11:18.322305Z">
+    </TimeCreated>
+    <EventRecordID>102991</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="640" ThreadID="3584">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="param1">WREx</Data>
+    <Data Name="param2">running</Data>
+    <Binary>57005200450078002F0034000000</Binary>
+  </EventData>
+</Event>
+Record 102992
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Service Control Manager" Guid="{555908d1-a6d7-4695-8e1e-26931d2012f4}" EventSourceName="Service Control Manager">
+    </Provider>
+    <EventID Qualifiers="16384">7036</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8080000000000000</Keywords>
+    <TimeCreated SystemTime="2024-09-24T21:12:08.166438Z">
+    </TimeCreated>
+    <EventRecordID>102992</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="640" ThreadID="1020">
+    </Execution>
+    <Channel>System</Channel>
+    <Computer>EC2AMAZ-0TD157D</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="param1">WREx</Data>
+    <Data Name="param2">stopped</Data>
+    <Binary>57005200450078002F0031000000</Binary>
+  </EventData>
+</Event>
