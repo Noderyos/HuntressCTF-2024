@@ -26,6 +26,6 @@
 
 # 5
 
-## Solver : ``
+## Solver : `Noderyos`
 
-## Flag : ``
+## Flag : `C:\Users\DeeDee\Documents\nc.exe`
