@@ -1,4 +1,4 @@
-# Nightmare on Hunt Street Part
+# Nightmare on Hunt Street
 
 ## Solver : `Noderyos`
 
