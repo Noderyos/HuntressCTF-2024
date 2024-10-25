@@ -1,4 +1,4 @@
-# Y2K
+# Y2J
 
 ## Solver: `Noderyos`
 
